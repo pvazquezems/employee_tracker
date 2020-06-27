@@ -1,0 +1,24 @@
+{
+  "name": "employee_tracker",
+  "version": "1.0.0",
+  "description": "Homework #12",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvazquezems/employee_tracker.git"
+  },
+  "author": "Pablito Vazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvazquezems/employee_tracker/issues"
+  },
+  "homepage": "https://github.com/pvazquezems/employee_tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.2.0",
+    "mysql": "^2.18.1"
+  }
+}
